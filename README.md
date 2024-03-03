@@ -2,6 +2,7 @@
 
 # 課堂講義
 [Session 1 - 2024-02-22(四) 生成式演算藝術介紹 - 概念與作品賞析](https://hackmd.io/j9shS9IMQIOt3hu1oMsTqA)
+
 [Session 2 - 2024-03-01(四) 數學、物理、訊號與音訊處理概論](https://hackmd.io/3uw0-nifTeK53wH5v7rdlg?view)
 
 # 作業
