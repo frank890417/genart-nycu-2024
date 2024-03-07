@@ -1,5 +1,7 @@
 # 生成式演算藝術實作 - 陽明交大 - 應用藝術研究所
 
+[本學期課綱](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=112&Sem=2&CrsNo=534417&lang=zh-tw)
+
 # 課堂講義
 [Session 1 - 2024-02-22(四) 生成式演算藝術介紹 - 概念與作品賞析](https://hackmd.io/j9shS9IMQIOt3hu1oMsTqA)
 
